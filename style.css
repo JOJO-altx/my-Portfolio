@@ -1,10 +1,9 @@
-*{
-  scroll-behavior: smooth;
-  box-sizing: border-box;
-  text-decoration: none;
+body{
+    background: linear-gradient(300deg, #FFF0DC, #F0BB78, #FAA4BD, #FFE893);
+    scroll-behavior: smooth;
 }
 svg{
-  width: 60px;
+  width: 100px;
   height: 100px;
 }
 body{
